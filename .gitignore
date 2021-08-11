@@ -1,0 +1,4 @@
+#Ignore .class files and .swp (this is a java directory, gitignore for Java_Practice_4 directory
+
+*.class
+*.swp
